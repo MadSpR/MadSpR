@@ -8,3 +8,13 @@
    - Pentesting Tool Manual: I plan on upload a manual of pentesting tools that I have been writing as a guide to use during pentests. It’s divided into the pentesting phases of Reconnaissance, Enumeration, Exploitation, Post-Exploitation, and Covering Tracks.
 ###
 
+## ¡Hola! 👋
+
+🌱 Actualmente estoy aprendiendo ciberseguridad por mi cuenta y estudiando para la certificación eJPT.  
+🚀 Estoy desarrollando pequeños proyectos en C, Java y Python.  
+🔴 Mi objetivo es convertirme en especialista en seguridad informática enfocado en pentesting y desarrollo de exploits.  
+📚 Proyectos:  
+
+   - Showcase de Exploits: Estoy trabajando en proyectos de exploits para comprender cómo funcionan y entender las vulnerabilidades a un nivel más profundo. Actualmente, estoy desarrollando un keylogger avanzado, aunque aún no está en mis repositorios.
+   - Manual de Herramientas de Pentesting: Planeo subir un manual de herramientas de pentesting que he estado haciendo como guía para usar durante las pruebas de penetración. Está dividido en las fases de Reconocimiento, Enumeración, Explotación, Post-Explotación y Borrado de Huellas.
+
