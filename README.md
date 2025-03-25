@@ -1,19 +1,24 @@
 ## Hi there 👋
 
-🌱 I’m currently learning cybersecurity on my own and studying for the eJPT certification.  
-🚀 I like programming and I have developed small proyects in Java and Python  
-🔴 I aspire to become a Red Team Pentester.  
+🌱 I have obtained the eJPT certification and I am currently looking for a job as a programmer, while continuing to develop my knowledge in cybersecurity.  
+🚀 I enjoy programming and have developed small projects in Java and Python.  
+🔴 My goal is to grow as a developer while deepening my expertise in offensive security.  
 📚 Projects:  
-   - Script development: Currently, I am learning Bash and developing small scripts to automate tasks. I am passionate about efficiency and automation, and I am constantly seeking new ways to optimize processes.
-   - Pentesting Tool Manual: I plan on upload a manual of pentesting tools that I have been writing as a guide to use during pentests. It’s divided into the pentesting phases of Reconnaissance, Enumeration, Exploitation, Post-Exploitation, and Covering Tracks.
+- REST API Backend: Developed a CRUD API using Java, Spring Boot (Web, JPA, Hibernate, Maven), and MySQL. Used cURL for API testing and followed clean architecture principles. (https://github.com/MadSpR/foodflow-apirest)
+
+- Network Scanner Automation: Script in Bash that automates network scanning using Nmap, generating detailed reports of open ports and services. (https://github.com/MadSpR/automated-enumeration)
+
+   
 ###
 
 ## ¡Hola! 👋
 
-🌱 Actualmente estoy aprendiendo ciberseguridad por mi cuenta y estudiando para la certificación eJPT.  
-🚀 Me gusta la programación y he realizado pequeños proyectos y programas en Java y en Python.  
-🔴 Mi objetivo es convertirme en especialista en seguridad informática enfocado en pentesting.  
+🌱 He obtenido la certificación eJPT y actualmente estoy en búsqueda activa de trabajo como programadora, mientras sigo desarrollando mis conocimientos en ciberseguridad.  
+🚀 Me gusta la programación y he desarrollado pequeños proyectos en Java y Python.  
+🔴 Mi objetivo es crecer como desarrolladora mientras profundizo en la seguridad ofensiva.  
 📚 Proyectos:  
-   - Desarrollo de scripts: Actualmente estoy aprendiendo Bash y desarrollando pequeños scripts para automatizar tareas. Me apasiona la eficiencia y la automatización, y estoy constantemente buscando nuevas formas de optimizar procesos.
-   - Manual de Herramientas de Pentesting: Planeo subir un manual de herramientas de pentesting que he estado haciendo como guía para usar durante las pruebas de penetración. Está dividido en las fases de Reconocimiento, Enumeración, Explotación, Post-Explotación y Borrado de Huellas.
+
+- Backend de API REST: Desarrollé una API CRUD utilizando Java, Spring Boot (Web, JPA, Hibernate, Maven) y MySQL. Usé cURL para pruebas de la API, siguiendo principios de arquitectura limpia. (https://github.com/MadSpR/foodflow-apirest)
+
+- Automatización de Escaneo de Redes: Script en Bash que automatiza el escaneo de redes con Nmap, generando informes detallados sobre puertos abiertos y servicios. (https://github.com/MadSpR/automated-enumeration)
 
